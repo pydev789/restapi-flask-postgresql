@@ -21,7 +21,11 @@ Python Version Used: Python 3.6.0
 # API Documentation
 
 GET /monsters/:id
+
 GET /monsters
+
 POST /monsters
+
 PUT /monsters/:id
+
 DELETE /monsters/:id
